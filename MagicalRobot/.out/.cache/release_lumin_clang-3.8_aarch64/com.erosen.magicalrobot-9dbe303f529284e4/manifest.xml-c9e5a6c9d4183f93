@@ -1,0 +1,11 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="3e337d3f-cd6d-4939-8504-02561c992375" ml:package="com.erosen.magicalrobot" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="MagicalRobot">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="Internet" />
+    <uses-privilege ml:name="LocalAreaNetwork" />
+    <uses-privilege ml:name="WorldReconstruction" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="MagicalRobot">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
