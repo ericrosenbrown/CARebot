@@ -1,2 +1,2 @@
-# ActionOrientedSemanticMaps
-A repository for our codebase for creating Action-Oriented Semantic Maps with a Kinova MOVO
+# CARebot
+Unity3D codebase for visualizing CARebot on a magic leap
